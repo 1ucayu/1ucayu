@@ -1,6 +1,6 @@
 I am [Luca](https://1ucayu.github.io), a graduating PhD candidate at [HKU](https://hku.hk/) and a Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
 
-I study systems design and orchestration, spanning agentic, mobile, networking, and sensing systems. ==I am actively looking for internship opportunities on agentic system and LLM inference system.==
+I study systems design and orchestration, spanning agentic, mobile, networking, and sensing systems. **I am actively looking for internship opportunities on agentic system and LLM inference system.**
 
 Selected Publications:
 
