@@ -5,8 +5,8 @@ I study systems design and orchestration, spanning agentic, mobile, networking, 
 Selected Publications:
 
 * [Vigil](https://1ucayu.github.io/) - Under submission
-* [RF-LEGO](https://arxiv.org/abs/2604.10183) - MobiCom '26
-* [Wi2SAR](https://arxiv.org/abs/2604.09115) - MobiCom '26
+* [RF-LEGO](https://arxiv.org/abs/2604.10183) - MobiCom '26 (Best Community Paper Award)
+* [Wi2SAR](https://arxiv.org/abs/2604.09115) - MobiCom '26 (Best Artifact Evaluation Award)
 * [USpeech](https://arxiv.org/abs/2410.22076) - UbiComp '25
 * [Radio2Text](https://arxiv.org/abs/2308.08125) - UbiComp '23
 * [Radio2Speech](https://arxiv.org/abs/2206.11066) - Interspeech '22
